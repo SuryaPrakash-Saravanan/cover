@@ -53,8 +53,8 @@ cover.html
       margin: 40px auto;
       padding: 40px;
       position: relative;
-      background: rgba(255, 250, 240, 0.9); /* faded parchment feel */
-      border: 5px solid black;  /* dark brown vintage border */
+      background: rgba(255, 250, 240, 0.9);
+      border: 5px solid black;
       border-radius: 6%;
     }
     .top {
