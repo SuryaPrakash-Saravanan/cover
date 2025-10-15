@@ -82,7 +82,7 @@ cover.html
     .special {
       font-size: 22px;
       font-weight: bold;
-      margin-top: 200px;
+      margin-top: 450px;
       color: brown;
       text-align: left;
     }
@@ -139,7 +139,9 @@ cover.html
 ```
 
 ## OUTPUT:
-![alt text](output.png)
+<img width="1920" height="1080" alt="Screenshot (62)" src="https://github.com/user-attachments/assets/cf490981-e51e-4fd1-b79e-c62ff4a12262" />
+
+
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
